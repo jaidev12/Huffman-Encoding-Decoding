@@ -38,7 +38,7 @@ Steps for Compression:
 8. Write result to an Output Binary File.
 
 Steps for Decompression:
-1. Read Binaryt File.
+1. Read Binary File.
 2. Read padding information and remove the padded bits.
 3. Decode the bits - read bits & replace the valid huffman code bits with character values.
 4. Save decoded data into Output File.
